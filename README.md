@@ -1,2 +1,2 @@
 # java_full_stack
-daily tasks what i have done
+i will update java tasks here
